@@ -1,2 +1,2 @@
-# Castle_battle
-Small castle game coded in Java
+# CastleB attle
+Small text-based battle game coded in Java
